@@ -1,0 +1,4 @@
+/* pages/view/view.wxss */
+view image{
+  width:100%
+}

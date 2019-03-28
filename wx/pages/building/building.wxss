@@ -1,0 +1,4 @@
+/* pages/building/building.wxss */
+view image{
+  width:100%
+}

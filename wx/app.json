@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/building/building",
+    "pages/plant/plant",
+    "pages/view/view",
+    "pages/animal/animal",
+    "pages/people/people",
+    "pages/food/food"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#241f35",
+    "navigationBarTitleText": "摄影",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "pages/tabs/home.png",
+        "selectedIconPath": "pages/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "联系",
+        "iconPath": "pages/tabs/message.png",
+        "selectedIconPath": "pages/tabs/message-active.png"
+      }
+    ]
+  }
+}

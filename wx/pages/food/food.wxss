@@ -1,0 +1,5 @@
+/* pages/food/food.wxss */
+view image{
+  width:100%;
+
+}

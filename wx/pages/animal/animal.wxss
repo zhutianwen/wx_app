@@ -1,0 +1,4 @@
+/* pages/animal/animal.wxss */
+view image{
+  width:100%;
+}

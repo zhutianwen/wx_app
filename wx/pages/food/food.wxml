@@ -1,0 +1,7 @@
+<!--pages/food/food.wxml-->
+<view>
+  <view wx:for="{{list}}" wx:key="index">
+     <image src="{{item.img_url}}"></image>
+  </view>
+   
+</view>

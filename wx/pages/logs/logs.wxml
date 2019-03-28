@@ -1,0 +1,9 @@
+<!--logs.wxml-->
+<view class="container">
+  <view>
+  <text>电话:134xxxxxxxx</text>
+  <text>微信:134xxxxxxxx</text>
+  <text>邮箱:134xxxxxxxxqq.com</text>
+  </view>
+  
+</view>

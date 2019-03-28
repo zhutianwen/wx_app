@@ -1,0 +1,4 @@
+/* pages/plant/plant.wxss */
+view image{
+  width:100%
+}
